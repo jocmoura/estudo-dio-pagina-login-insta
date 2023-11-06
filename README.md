@@ -24,7 +24,7 @@ Imagem do projeto
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Cover.png" width="100%">
+  <img alt="projeto " src=".github/Cover.png" width="100%">
 </p>
 
 ## Tecnologias
