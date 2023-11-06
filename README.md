@@ -46,5 +46,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com  Jonas Moura 
+Feito por Jonas Moura - Estudo.
 
