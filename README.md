@@ -23,9 +23,6 @@ Imagem do projeto
   <img alt="License" src="./img/img-mobile.png">
 </p>
 
-<p align="center">
-  <img alt="projeto " src=".github/Cover.png" width="100%">
-</p>
 
 ## Tecnologias
 
